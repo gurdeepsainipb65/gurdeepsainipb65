@@ -11,7 +11,7 @@
 
 #### 📌 Skills  
 ✅ JavaScript (ES6+) | React.js | Redux | Node.js | Express.js | MongoDB | jQuery  
-✅ HTML5 | CSS3 | Bootstrap | TailwindCSS  
+✅ HTML5 | CSS3 | TailwindCSS  
 ✅ Git | GitHub | REST APIs | Firebase | Web Performance Optimization  
 
 #### 📫 Connect with Me  
