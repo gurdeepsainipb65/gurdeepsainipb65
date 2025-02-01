@@ -15,6 +15,6 @@
 ✅ Git | GitHub | REST APIs | Firebase | Web Performance Optimization  
 
 #### 📫 Connect with Me  
-- 🔗 [Portfolio Website](#) *(Add your portfolio link here)*  
-- 📧 Email: *(Your Email)*  
-- 🏗️ LinkedIn: *(Your LinkedIn Profile)*  
+- 🔗 [Portfolio Website](#) *(https://portfoilo-sage-one.vercel.app/)*  
+- 📧 Email: *(gurdeepsainig2001@gmail.com)*  
+- 🏗️ LinkedIn: *(www.linkedin.com/in/gurdeep-singh-5a7538323)*  
